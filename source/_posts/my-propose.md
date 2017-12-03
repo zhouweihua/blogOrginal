@@ -1,6 +1,6 @@
 ---
 title: my propose
-date: 2017-11-27 17:32:38
+date: 2017-11-26 17:32:38
 tags: propose
 description: #自己的第一个blog
 ---
@@ -10,5 +10,3 @@ description: #自己的第一个blog
 周六周末整理一下 可以慢慢的把这些分享出来
 
 自己并不是喜欢好为人师 所以这里的分享都是一些个人看法 希望可以帮到你 在前端的路上走的顺畅一点 当然如果有不对的地方 也请多多指教
-
-博客源码的地址：https://github.com/zhouweihua/blogOrginal
