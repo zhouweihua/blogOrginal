@@ -27,3 +27,13 @@ tags: ['earn-money', 'JavaScript']
 #第三点
 如果想要更上一级的话 很多框架的源码就是我们需要攻克的目标了 现在很多框架都是可以在github找到非压缩版本的 jquery vue react
 写代码一定要讲究一定的规范 特别是当你去看大型的项目开发 一个良好的编码规范可以让你规避掉很多不必要的错误 很多并不是你做错了什么 而是你单词的误拼 定义的混乱 设值的错误
+
+----------------
+
+项目一：后台web https://zhouweihua.github.io/pc/
+用到的基本技术： vue vuex vue-route axios sass eslint element-ui
+
+项目二：移动H5 https://zhouweihua.github.io/mobile/
+用到的基本技术： vue vuex vue-route axios less
+
+项目三：移动H5 关于react 待续。。。

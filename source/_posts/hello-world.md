@@ -27,13 +27,14 @@ tags: introduce
 梦想有一天 不做任何事情 每天起床 手头闲时读书 做自己想做的事情
 只是现在还需要赚钱 因为还有很多小小的目标没有实现 世界那么大 还是要多看看
 
-----------------
 作为一名合格的前端程序员 其实最大的感触 规范很重要
 
-项目一：移动H5  https://zhouweihua.github.io/creditloan/ 
-用到的基本技术： vue vuex vue-route axios sass eslint element-ui 
+----------------
 
-项目二：后台web  https://zhouweihua.github.io/crm/
+项目一：后台web https://zhouweihua.github.io/pc/
+用到的基本技术： vue vuex vue-route axios sass eslint element-ui
+
+项目二：移动H5 https://zhouweihua.github.io/mobile/
 用到的基本技术： vue vuex vue-route axios less
 
 项目三：移动H5 关于react 待续。。。
