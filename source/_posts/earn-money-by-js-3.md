@@ -10,13 +10,3 @@ tags: ['earn-money', 'JavaScript']
 ![chrome配置跨域](/earn-money-by-js-3/configchrome.png)
 
 一般线上有两种方案：cors 以及 代理 其中代理最为方便
-
-----------------
-
-项目一：后台web https://zhouweihua.github.io/pc/
-用到的基本技术： vue vuex vue-route axios sass eslint element-ui
-
-项目二：移动H5 https://zhouweihua.github.io/mobile/
-用到的基本技术： vue vuex vue-route axios less
-
-项目三：移动H5 关于react 待续。。。

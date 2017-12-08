@@ -16,13 +16,3 @@ tags: ['earn-money', 'JavaScript']
 
 就如上图的的作用一样 当我们需要计算某一个值的时候 我们又不确定怎么去做 我给的方案就是按图索骥
 <font color="#FF0000">程序员一个很重要的能力就是从什么地方找到我们能用的知识</font> 
-
-----------------
-
-项目一：后台web https://zhouweihua.github.io/pc/
-用到的基本技术： vue vuex vue-route axios sass eslint element-ui
-
-项目二：移动H5 https://zhouweihua.github.io/mobile/
-用到的基本技术： vue vuex vue-route axios less
-
-项目三：移动H5 关于react 待续。。。

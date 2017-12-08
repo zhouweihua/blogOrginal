@@ -1,6 +1,6 @@
 ---
 title: 个人介绍
-date: 2017-11-26 18:33:33
+date: 2217-11-26 18:33:33
 tags: introduce
 ---
 
@@ -37,4 +37,5 @@ tags: introduce
 项目二：移动H5 https://zhouweihua.github.io/mobile/
 用到的基本技术： vue vuex vue-route axios less
 
-项目三：移动H5 关于react 待续。。。
+项目三：移动H5 https://zhouweihua.github.io/react/
+用到的基本技术： react 自己写了一个小型的route路由 通过正则匹配 找到对应的模板 用require做动态加载 
