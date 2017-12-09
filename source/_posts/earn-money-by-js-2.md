@@ -3,11 +3,6 @@ title: '[earn money by js] 靠着JavaScript赚钱系列2'
 date: 2017-12-09 09:44:20
 tags: ['earn-money', 'JavaScript']
 ---
-
-上周说了一简单的概要 
-
-这周开始就要说点实际的东西了
-
 一开始 上图
 ![js尺寸联想图](/earn-money-by-js-2/size.gif)
 
