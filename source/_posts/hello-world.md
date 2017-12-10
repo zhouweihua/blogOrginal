@@ -42,3 +42,12 @@ mock数据 然后动态加载路由 以及相关element组件的添加 可以扩
 
 <font color="#0000FF">项目三：移动H5 https://zhouweihua.github.io/react/</font> 
 用到的基本技术： react 自己写了一个小型的route路由 通过正则匹配 找到对应的模板 用require做动态加载
+
+----------------
+
+关于本博客的一些问题 可以联系邮箱 zhouweihue@aliyun.com 附上问题 以及回复的邮件地址
+当然也可以添加个人的微信 zhouweihue 注明：blog交流
+![个人微信](/hello-world/myWeixin.jpg)
+
+----------------
+不得用于商业用途 转载需注明出处
