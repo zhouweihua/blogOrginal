@@ -1,7 +1,7 @@
 ---
 title: 个人介绍
-date: 2217-11-26 18:33:33
-tags: introduce
+date: 2217-11-26 23:23:23
+tags: ['introduce', '介绍']
 ---
 
 删了改 改了又删 我想个人介绍就简单一点 应该轻松一点
@@ -32,11 +32,13 @@ js的属于胶水语言 有时bug的诞生往往很无厘头
 
 ----------------
 
-项目一：后台web https://zhouweihua.github.io/pc/
+<font color="#0000FF">项目一：后台web https://zhouweihua.github.io/pc/</font> 
 用到的基本技术： vue vuex vue-route axios sass eslint element-ui
+mock数据 然后动态加载路由 以及相关element组件的添加 可以扩展作为公司业务系统
 
-项目二：移动H5 https://zhouweihua.github.io/mobile/
-用到的基本技术： vue vuex vue-route axios less
+<font color="#0000FF">项目二：移动H5 https://zhouweihua.github.io/mobile/</font> 
+用到的基本技术： vue vuex vue-route axios sass flexible
+自己实现了一个下拉刷新组件 一个滚轮选择组件 页面前进后退动画等等
 
-项目三：移动H5 https://zhouweihua.github.io/react/
-用到的基本技术： react 自己写了一个小型的route路由 通过正则匹配 找到对应的模板 用require做动态加载 
+<font color="#0000FF">项目三：移动H5 https://zhouweihua.github.io/react/</font> 
+用到的基本技术： react 自己写了一个小型的route路由 通过正则匹配 找到对应的模板 用require做动态加载
