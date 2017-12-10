@@ -1,10 +1,10 @@
 ---
 title: '[earn money by css] 靠着css赚钱系列4'
-date: 2117-11-26 23:23:23
+date: 2116-11-26 23:59:56
 tags: ['earn-money', 'css']
 ---
 <font size="4" color="#000">盒子模型</font> 
-我们最主要遇到的就是box-sizing属性的设置
+常常遇到的就是box-sizing属性的设置
 
 border-box
 

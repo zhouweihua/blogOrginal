@@ -1,11 +1,11 @@
 ---
-title: '[earn money by css] 靠着css赚钱系列1'
-date: 2117-11-26 23:23:23
+title: '[earn money by css] 靠着css赚钱系列3'
+date: 2116-11-26 23:59:57
 tags: ['earn-money', 'css']
 ---
 <font size="4" color="#000">ios中fixed和键盘兼容的问题</font> 
 这是一个很常见的问题
-![ios fixed问题调研](/earn-money-by-css-3/iosfixed.jpg)
+![ios fixed问题调研](/7002-earn-money-by-css-3/iosfixed.jpg)
 
 解决思路有两种
 

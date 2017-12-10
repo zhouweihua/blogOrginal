@@ -1,15 +1,15 @@
 ---
 title: '[earn money by js] 靠着JavaScript赚钱系列1'
-date: 2117-11-26 23:23:23
+date: 2117-11-26 23:59:59
 tags: ['earn-money', 'JavaScript']
 ---
 
-2015年入行 靠着JavaScript 慢慢的写jquery 然后react 现在写vue 能够做到吃喝不愁 即便是和别人辩论起相关问题来 也能说个123
+2015年入行 靠着JavaScript 慢慢的写jquery 然后react node 现在写vue 能够做到吃喝不愁 即便是和别人辩论起相关问题来 也能说个123
 也学过不少乱七八糟的技术：react native；phantomjs；threejs；
 
 也带过不少的实习生 初级前端工程师 在一开始什么都不知道的情况下 初级入门者往往不知道什么对自己最重要的是什么
 
-<font size="4" color="#000">我给他们的建议</font> 
+<font size="4" color="#000">建议</font> 
 第一是写代码 多实践
 第二是看书 看经典的书
 第三就是看源码 写出规范的代码
