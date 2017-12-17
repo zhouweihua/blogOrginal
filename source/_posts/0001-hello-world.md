@@ -47,7 +47,9 @@ mock数据 然后动态加载路由 以及相关element组件的添加 可以扩
 
 关于本博客的一些问题 可以联系邮箱 zhouweihue@aliyun.com 附上问题 以及回复的邮件地址
 当然也可以添加个人的微信 zhouweihue 注明：blog交流
+<div style="width:300px">
 ![个人微信](/0001-hello-world/myWeixin.jpg)
+</div>
 
 ----------------
 不得用于商业用途 转载需注明出处
