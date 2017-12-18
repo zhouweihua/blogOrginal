@@ -5,7 +5,10 @@ tags: ['earn-money', 'css']
 ---
 <font size="4" color="#000">ios中fixed和键盘兼容的问题</font> 
 这是一个很常见的问题
+
+<div style="width:400px">
 ![ios fixed问题调研](/7002-earn-money-by-css-3/iosfixed.jpg)
+</div>
 
 解决思路有两种
 
