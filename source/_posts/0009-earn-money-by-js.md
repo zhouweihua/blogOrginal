@@ -17,13 +17,13 @@ tags: ['earn-money', 'JavaScript']
 个人写的一个demo 模拟了整个过程
 
 <div style="width:300px">
-![300delay](/0009-earn-money-by-js-8/300delay1.jpg)
+![300delay](/0009-earn-money-by-js/300delay1.jpg)
 </div>
 
 点击button相同位置的遮罩层 在控制台显示出了同时触发了button的click事件
 
 <div style="width:300px">
-![300delay](/0009-earn-money-by-js-8/300delay2.jpg)
+![300delay](/0009-earn-money-by-js/300delay2.jpg)
 </div>
 
 其中关键的js代码如下

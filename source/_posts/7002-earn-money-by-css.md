@@ -7,7 +7,7 @@ tags: ['earn-money', 'css']
 这是一个很常见的问题
 
 <div style="width:400px">
-![ios fixed问题调研](/7002-earn-money-by-css-3/iosfixed.jpg)
+![ios fixed问题调研](/7002-earn-money-by-css/iosfixed.jpg)
 </div>
 
 解决思路有两种
