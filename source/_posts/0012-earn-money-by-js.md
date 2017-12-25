@@ -31,7 +31,7 @@ translate:移动，<font color="red">transform的一个方法</font>
 ----用法：el.style.webkitTransform = 'translate3d(0,0,0)';
 
 
-一般代码编写流程就是
+<font size="4" color="#000">一般代码编写流程就是</font>
 在css中设置transition
 
 然后在js中调整transform
