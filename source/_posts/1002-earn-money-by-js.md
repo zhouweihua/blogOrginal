@@ -5,7 +5,7 @@ tags: ['earn-money', 'JavaScript']
 ---
 
 上图
-![js尺寸联想图](/0003-earn-money-by-js/size.gif)
+![js尺寸联想图](/1002-earn-money-by-js/size.gif)
 
 人对图形的感觉很更好一点 在学习的过程 讲究由点到线 再有线到面
 所有的东西有一个引子
