@@ -1,28 +1,52 @@
 ---
-title: '[earn money by css] 靠着css赚钱系列3'
-date: 2116-11-26 23:59:57
+title: '[earn money by css] 靠着css赚钱系列2'
+date: 2116-11-26 23:59:58
 tags: ['earn-money', 'css']
 ---
-<font size="4" color="#000">ios中fixed和键盘兼容的问题</font> 
-这是一个很常见的问题
+平时动态样式加载 往往就是先写好class类 然后动态的控制样式
+例如
+{% codeblock %}
+<style>
+.test {
+	width:100%;
+	height:100%;
+}
+.test .ios {
+	padding-top:20px !important;
+}
+</style> 
+{% endcodeblock %}
+在html中直接针对class添加和删除ios类 控制显示逻辑
 
-<div style="width:400px">
-![ios fixed问题调研](/7002-earn-money-by-css/iosfixed.jpg)
-</div>
+但是曾经看过第二种写法 那就是
+{% codeblock %}
+<script>
+    if(isIos()){
+        $('#mystyle').html('.test{padding-top:20px !important}') ;
+    }
+</script>
+{% endcodeblock %}
 
-解决思路有两种
+见猎心喜 记录了下来 印象深刻
 
-1.
-将fixed的的元素转化成固定在底部的元素
-这种直接干掉fixed做法 属于暴力的做法 一般不要使用
+----------------
+多说一句
 
-2.
-第二种思路就是 键盘事件的触发一般都是input框导致的
-在input框中监听focus blur事件
-focus触发时 将fixed元素隐藏
-blur触发时 将fixed元素显示
-目前最好的解决思路就是这个方法
+初级选手很容易的一个错误就是
+if语句中的
+{% codeblock %}
+<script>
+    if(isIos())
+</script>
+{% endcodeblock %}
+会写成
+{% codeblock %}
+<script>
+    if(isIos)
+</script>
+{% endcodeblock %}
 
+嘿嘿 你看出哪里不一样了么
 
 ----------------
 不得用于商业用途 转载需注明出处

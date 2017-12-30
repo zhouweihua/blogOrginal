@@ -1,20 +1,27 @@
 ---
-title: '[earn money by css] 靠着css赚钱系列4'
-date: 2116-11-26 23:59:56
+title: '[earn money by css] 靠着css赚钱系列3'
+date: 2116-11-26 23:59:57
 tags: ['earn-money', 'css']
 ---
-<font size="4" color="#000">盒子模型</font> 
-常常遇到的就是box-sizing属性的设置
+<font size="4" color="#000">ios中fixed和键盘兼容的问题</font> 
+这是一个很常见的问题
 
-border-box:
-基本见到的就是这个
-盒子宽高多少就是多少 外层padding 能够限定住内层的大小
+<div style="width:400px">
+![ios fixed问题调研](/7003-earn-money-by-css/iosfixed.jpg)
+</div>
 
-content-box
+解决思路有两种
 
+1.
+将fixed的的元素转化成固定在底部的元素
+这种直接干掉fixed做法 属于暴力的做法 一般不要使用
 
-参考资料：
-http://www.cnblogs.com/cchyao/archive/2010/07/12/1775846.html
+2.
+第二种思路就是 键盘事件的触发一般都是input框导致的
+在input框中监听focus blur事件
+focus触发时 将fixed元素隐藏
+blur触发时 将fixed元素显示
+目前最好的解决思路就是这个方法
 
 
 ----------------
