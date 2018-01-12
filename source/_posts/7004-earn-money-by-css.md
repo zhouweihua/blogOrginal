@@ -6,12 +6,22 @@ tags: ['earn-money', 'css']
 <font size="4" color="#000">盒子模型</font> 
 常常遇到的就是box-sizing属性的设置
 
-border-box:
-基本见到的就是这个
-盒子宽高多少就是多少 外层padding 能够限定住内层的大小
+(1) content-box：
+默认值，可以使设置的宽度和高度值应用到元素的内容框。盒子的width只包含内容。
+即总宽度=margin+border+padding+width
 
-content-box
-设置padding会将盒子撑开
+(2) border-box：
+设置的width值其实是除margin外的border+padding+element的总宽度。盒子的width包含border+padding+内容
+即总宽度=margin+width
+
+<font size="4" color="#000">系统默认的是content-box 但是border-box更符合我们人的理解思维</font> 
+
+在写代码的时候：
+很多时候是利用百分比去写相关元素
+一个很简单的例子就是我们想要一个按钮左右留30px的边距； 然后撑满剩余的部分；
+
+content-box：就需要我们自己去计算相关的值；很不利于写代码
+border-box：就可以直接在外层元素上设置padding；那么内层元素width：100%就会自动填充剩余的空间
 
 参考资料：
 http://www.cnblogs.com/cchyao/archive/2010/07/12/1775846.html
