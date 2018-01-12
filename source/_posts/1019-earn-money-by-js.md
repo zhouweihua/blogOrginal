@@ -5,7 +5,7 @@ tags: ['earn-money', 'JavaScript']
 ---
 yeild
 
-es6的一种语言
+...待续
 
 ----------------
 不得用于商业用途 转载需注明出处
