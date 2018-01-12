@@ -1,5 +1,5 @@
 ---
-title: '[earn money by js] 靠着JavaScript赚钱系列20'
+title: '[earn money by js] 靠着JavaScript赚钱系列20-vue源码分析1:完整的流程'
 date: 2117-11-26 23:59:40
 tags: ['earn-money', 'JavaScript']
 ---
@@ -36,6 +36,10 @@ vue源码分析1
 
 完整的流程代码分析图
 ![liuchengall](/1020-earn-money-by-js/liuchengall.png)
+
+----------------
+网页看不清可以下载下来看
+
 ----------------
 不得用于商业用途 转载需注明出处
 

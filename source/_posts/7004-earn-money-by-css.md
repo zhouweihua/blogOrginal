@@ -1,5 +1,5 @@
 ---
-title: '[earn money by css] 靠着css赚钱系列4'
+title: '[earn money by css] 靠着css赚钱系列4-盒子模型'
 date: 2116-11-26 23:59:56
 tags: ['earn-money', 'css']
 ---
@@ -11,7 +11,7 @@ border-box:
 盒子宽高多少就是多少 外层padding 能够限定住内层的大小
 
 content-box
-
+设置padding会将盒子撑开
 
 参考资料：
 http://www.cnblogs.com/cchyao/archive/2010/07/12/1775846.html

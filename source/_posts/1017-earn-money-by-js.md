@@ -1,5 +1,5 @@
 ---
-title: '[earn money by js] 靠着JavaScript赚钱系列17'
+title: '[earn money by js] 靠着JavaScript赚钱系列17-nginx配置'
 date: 2117-11-26 23:59:43
 tags: ['earn-money', 'JavaScript']
 ---

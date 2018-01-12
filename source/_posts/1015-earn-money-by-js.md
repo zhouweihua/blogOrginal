@@ -1,5 +1,5 @@
 ---
-title: '[earn money by js] 靠着JavaScript赚钱系列15'
+title: '[earn money by js] 靠着JavaScript赚钱系列15-关联对象方法'
 date: 2117-11-26 23:59:45
 tags: ['earn-money', 'JavaScript']
 ---
