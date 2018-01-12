@@ -35,9 +35,7 @@ vue源码分析1
 
 
 完整的流程代码分析图
-<div style="width:500px">
 ![liuchengall](/1020-earn-money-by-js/liuchengall.png)
-</div>
 ----------------
 不得用于商业用途 转载需注明出处
 

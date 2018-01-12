@@ -8,14 +8,10 @@ vue源码分析3
 如何在data节点上添加observe
 
 简略版
-<div style="width:500px">
 ![observe](/1022-earn-money-by-js/observe.png)
-</div>
 
 详细版
-<div style="width:500px">
 ![observe2](/1022-earn-money-by-js/observe2.png)
-</div>
 
 ----------------
 不得用于商业用途 转载需注明出处

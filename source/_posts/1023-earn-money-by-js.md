@@ -6,9 +6,7 @@ tags: ['earn-money', 'JavaScript']
 vue源码分析3
 
 compile 过程解析
-<div style="width:500px">
 ![compile](/1023-earn-money-by-js/compile.png)
-</div>
 
 ----------------
 不得用于商业用途 转载需注明出处
