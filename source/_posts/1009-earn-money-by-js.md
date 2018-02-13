@@ -21,7 +21,7 @@ stopImmediatePropagation & stopPropagation & preventDefault & return false & can
 事实上stoppropagation和cancelBubble的作用是一样的，都是用来阻止浏览器默认的事件冒泡行为。
 一般很少人用
 
-个人写的demo地址
+demo地址
 https://zhouweihua.github.io/example/event.html
 
 参考资料
@@ -31,6 +31,9 @@ http://www.cnblogs.com/dannyxie/p/5642727.html
 
 事件冒泡和事件捕获
 如果你想要做的是和冒泡正好相反的操作 请记住 还有<font color="red">事件捕获</font>操作
+
+demo地址
+https://zhouweihua.github.io/example/eventPopGet.html
 
 ----------------
 不得用于商业用途 转载需注明出处
