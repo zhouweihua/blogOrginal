@@ -33,7 +33,29 @@ http://www.cnblogs.com/dannyxie/p/5642727.html
 如果你想要做的是和冒泡正好相反的操作 请记住 还有<font color="red">事件捕获</font>操作
 
 demo地址
+直接点击文字 看console打印
+
 https://zhouweihua.github.io/example/eventPopGet.html
+
+其中关键的js代码如下
+{% codeblock %}
+<script> 
+	var testBody = document.getElementsByClassName("testBody")[0]; 
+	var testDiv = document.getElementsByClassName("testDiv")[0]; 
+	var test = document.getElementsByClassName("test")[0]; 
+
+	// false：冒泡 true：捕获
+	testBody.addEventListener("click", function(e) {
+		console.log("testBody")
+	},true);
+	testDiv.addEventListener("click", function(e) {
+		console.log("testDiv")
+	},true);
+	test.addEventListener("click", function(e) {
+		console.log("test")
+	},true);
+</script>
+{% endcodeblock %}
 
 ----------------
 不得用于商业用途 转载需注明出处
