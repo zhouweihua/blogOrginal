@@ -47,6 +47,26 @@ vuex的基本代码 大部分功能属于辅助性质
 
 这个精简版的代码没有所谓的action mutation commit 比较简单粗暴 ~_~
 
+使用
+{% codeblock %}
+// main中 先引入
+import store from './store';
+
+// 设定全局方法
+Vue.prototype.store = store;
+{% endcodeblock %}
+
+
+{% codeblock %}
+// .vue文件里 mapGetters 替换成最原始的使用
+computed: {
+  // ...mapGetters(["a"]),
+  a: function() {
+    return this.store.state.a;
+  }
+}
+{% endcodeblock %}
+
 ----------------
 网页看不清可以下载下来看
 
